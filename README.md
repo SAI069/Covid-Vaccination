@@ -27,7 +27,7 @@ Here Students can register for hospitals in their area and the hospital can view
 Here each hospital provides a particular brand of vaccine, like Covaxin or Covishield, from which the student can choose any desired vaccination of their choice. Hospitals can also handle information related to students and add the dates when the students received their first and second dose of the vaccine. All this data is instantly updated in the database.
 <br>
 
-All Inventory details are visible in the hospital profile page.Here Inventory supplies vaccine to any specific hospitals.Also hospitals can add data in the inventory page inside their profile that shows all inventory that are linked to that hospital and quantity of vaccines they have supplied to the respective hospitals.
+All Inventory details are visible in the hospital profile page.Here Inventory supplies vaccine to any specific hospitals.Also hospitals can add data in the inventory page inside thei profile that shows all inventory that are linked to that hospital and quantity of vaccines they have supplied to the respective hospitals.
 <br>
 
 We also provide a statistics page where site viewers can view statistics of percentage of male, female and other students who have registered in our website.
